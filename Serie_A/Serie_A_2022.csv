@@ -1,0 +1,1 @@
+league,id,minute,result,X,Y,understat_xg,player,h_a,player_id,situation,season,shotType,match_id,home_team,away_team,home_goals,away_goals,date,player_assisted,lastAction,status,distanceToGoal,angleToGoal,xgboost_xg,logrec_xg,gradboost_xg,ensemble_xg,isGoal,isGoalBool
